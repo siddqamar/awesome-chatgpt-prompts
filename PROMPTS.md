@@ -29275,3 +29275,16 @@ Rules:
 
 </details>
 
+<details>
+<summary><strong>High Fashion Glamour Portrait – Minimalist Editorial Look</strong></summary>
+
+## High Fashion Glamour Portrait – Minimalist Editorial Look
+
+Contributed by [@emanetemre28@gmail.com](https://github.com/emanetemre28@gmail.com)
+
+```md
+high fashion look glamour portrait of a beautiful stylish caucasian woman model black clothes posing near a white wall
+```
+
+</details>
+
