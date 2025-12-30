@@ -21946,7 +21946,9 @@ Contributed by [@dorukkurtoglu@gmail.com](https://github.com/dorukkurtoglu@gmail
       "fabric": "Leather-like or matte textile with realistic texture"
     },
     "accessories": {
-      "jewelry": ["Small silver hoops"]
+      "jewelry": [
+        "Small silver hoops"
+      ]
     }
   },
   "pose": {
@@ -21999,9 +22001,14 @@ Contributed by [@dorukkurtoglu@gmail.com](https://github.com/dorukkurtoglu@gmail
     "no_watermarks": true
   },
   "negative_prompt": [
-    "readable neon signs", "logo", "watermark",
-    "plastic skin", "cgi look",
-    "extra fingers", "warped face", "duplicate subject"
+    "readable neon signs",
+    "logo",
+    "watermark",
+    "plastic skin",
+    "cgi look",
+    "extra fingers",
+    "warped face",
+    "duplicate subject"
   ]
 }
 ```
