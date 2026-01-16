@@ -19244,7 +19244,7 @@ Contributed by [@emreizzet@gmail.com](https://github.com/emreizzet@gmail.com)
 
 ```md
 ---
-name: "AST Code Analysis Superpower"
+name: ast-code-analysis-superpower
 description: AST-based code pattern analysis using ast-grep for security, performance, and structural issues. Use when (1) reviewing code for security vulnerabilities, (2) analyzing React hook dependencies or performance patterns, (3) detecting structural anti-patterns across large codebases, (4) needing systematic pattern matching beyond manual inspection.
 ---
 
@@ -19496,7 +19496,6 @@ jobs:
             exit 1
           fi
 ```
-
 ```
 
 </details>
